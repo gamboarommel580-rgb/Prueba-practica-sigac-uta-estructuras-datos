@@ -214,10 +214,6 @@ La matriz completa con entrada, resultado esperado, resultado obtenido y estado 
 
 ## Capturas
 
-Compilación del proyecto:
-
-![Compilacion](docs/capturas/01-compilacion.png)
-
 Ejecución de todas las pruebas con `--detalle`:
 
 ![Pruebas](docs/capturas/02-pruebas.png)
