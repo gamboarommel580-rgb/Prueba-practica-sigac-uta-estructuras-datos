@@ -1,0 +1,18 @@
+# compilados
+bin/
+out/
+*.class
+fuentes.txt
+
+# IDE y sistema
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+nbproject/
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
